@@ -1,0 +1,2 @@
+# shutd
+shutdown daemon
